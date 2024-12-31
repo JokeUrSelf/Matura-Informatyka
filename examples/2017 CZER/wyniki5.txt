@@ -1,0 +1,36 @@
+Zadanie 5.1		
+		
+a)		
+kwota z uplywu czasu	kwota z uzytkowania	wartość
+40050			5340			43610
+		
+b)		
+Marka_i_model	Nr_rejestracyjny	min wartość
+DAF LF45	ERA 132 TR		17390
+
+
+Zadanie 5.2
+    Marka       srednia    Ilosc
+    DAF         273239     30
+    Iveco       657434     12
+    MAN         289637     18
+    Mercedes    486545     17
+    Renault     519936     17
+    Scania      557117     17
+    Volvo       307130     23
+
+Zadanie 5.3
+    DAF         30
+    Iveco       12
+    MAN         18
+    Mercedes    17
+    Renault     17
+    Scania      17
+    Volvo       23
+
+Zadanie 5.4
+   marka_i_model        numer rejestracyjny    data         minelo
+   Mercedes Atego       ERA 112 TR             1/10/2015    722
+   Iveco Strails        ERA 212 TR             1/24/2015    708
+   Iveco Strails        ERA 213 TR             1/24/2015    708
+   Iveco TrakkerEuro5   ERA 214 TR             1/24/2015    708

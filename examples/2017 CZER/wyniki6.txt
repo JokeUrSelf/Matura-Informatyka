@@ -1,0 +1,39 @@
+Zadanie 6.1:
+    program                         cena_         liczba
+    Foxit Redactor for Office       1621          2
+    Publisher                       170           3
+    Word                            120           4
+    Writer                          0             3
+Zadanie 6.2:
+    Calligra Suite
+    DocuPDF
+    gDOC
+    GFI Security
+    IBM Data Software
+    OKAY
+    Sales Partner
+    SolarWinds Free System Management Tools
+    SolarWinds Systems Management
+    Subiekt
+Zadanie 6.3:
+    nazwa_pakietu                    firma           cena_
+    SolarWinds Systems Management    SolarWinds      57520
+    MicroStation                     Bentley         35736
+    GFI Security                     GFI Software    14811
+Zadanie 6.4:
+    Lightroom
+    Audition
+    Scribus
+    Adobe PageMaker
+    QuarkXPress
+Zadanie 6.5:
+    nazwa_pakietu                liczba_komerc       liczba_darm
+    ApexSQL Developer            7                   2
+    DaemonTools Lite             8                   1
+    dbForge                      5                   1
+    Expression Studio            3                   1
+    Foxit PDF Development Kits   2                   1
+    IconCool Software            4                   1
+    Logo-Gry                     8                   2
+    MicroStation                 4                   1
+    Sothink Suite                6                   1

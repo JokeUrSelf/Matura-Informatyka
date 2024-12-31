@@ -1,0 +1,19 @@
+Zadanie 5.1:
+ a)
+     towarzyski	ligowy	pucharowy
+     6	        113	    25
+
+ b)
+    rok	    ilosc
+    2007	21
+
+Zadanie 5.2:
+    Nocne Pumy
+    Zwinne Mewy
+
+Zadanie 5.3:
+    wygranych   przegranych	  zremisowanych
+    579	        452	          170
+
+Zadanie 5.4:
+    21

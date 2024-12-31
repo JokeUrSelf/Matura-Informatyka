@@ -1,0 +1,15 @@
+Zadanie 4.1:
+    18
+
+Zadanie 4.2:
+    5
+
+Zadanie 4.3:
+    Długość: 13347
+    Wspolrzedne A: 9901 593
+    Wspolrzedne B: 35 9583
+
+Zadanie 4.4:
+    wenatrz 249
+    na bokach 2
+    zewnatrz 749
